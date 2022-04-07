@@ -1,8 +1,8 @@
 ---
 title: 你好，世界！
 date: 2022-03-26 10:34:00 +0800
-categories: [随笔]
-tags: [生活]
+categories: [模板]
+tags: [模板]
 pin: true
 author: 欣欣
 
