@@ -1,0 +1,104 @@
+---
+title: 
+date: 2022-03-26 10:34:00 +0800
+categories: [如何写好一个2Take1 Lua]
+tags: [Lua]
+pin: true
+author: 欣欣
+
+toc: true
+comments: true
+typora-root-url: ../../BaiXinSuper.github.io
+math: false
+mermaid: true
+
+
+---
+
+
+
+
+
+---
+
+# 前言
+此系列文档仅供学习参考
+不出意外的话，我们会按照下列方向发展
+```
+lua的基础语法
+2Take1 的lua基础写法
+lua的进阶语法
+2Take1 的lua进阶写法
+
+并且
+在将来你会跟我共同完成一个很简单的案例lua供后人参考学习！
+```
+
+
+# 一、Lua环境搭建
+## 在线环境
+如果你不想在本地安装lua环境，那么就选择在线环境
+[在线环境](https://c.runoob.com/compile/66/)
+
+## Linux
+Linux上安装 Lua 安装非常简单，只需要下载源码包并在终端解压编译即可
+```
+curl -R -O http://www.lua.org/ftp/lua-5.3.0.tar.gz
+tar zxf lua-5.3.0.tar.gz
+cd lua-5.3.0
+make linux test
+make install
+```
+## Mac OS X
+与Linux同理
+```
+curl -R -O http://www.lua.org/ftp/lua-5.3.0.tar.gz
+tar zxf lua-5.3.0.tar.gz
+cd lua-5.3.0
+make macosx test
+make install
+```
+## Windows
+[下载地址[github]](https://github.com/rjpcomputing/luaforwindows/releases)
+# 二、配置环境变量
+如果你是Windows
+你会发现你的lua没法在cmd里面直接打开
+如何自检是否可以正常使用
+<kbd>Win</kbd>+<kbd>R</kbd>
+键入以下内容
+```
+cmd
+```
+回车
+输入
+```
+lua
+```
+回车
+你会发现类似以下的内容
+```
+Lua 5.1.5  Copyright (C) 1994-2012 Lua.org, PUC-Rio
+>>
+```
+那证明你的环境变量已经配置完毕，无需查看此步骤
+
+如果你没有
+自行百度"如何编辑账户的环境变量"
+变量值为你的安装路径+"/bin"
+例如:
+X:/lua/5.x/bin
+键入到path内
+
+# 代码编辑器
+市面上的代码编辑器很多
+例如：
+VScode,Lua studio等
+如果你是小白推荐使用vscode，简单易懂
+下载地址：
+[VScode](https://code.visualstudio.com/)
+[Lua Studio](http://www.luastudio.net/)
+别问我为啥不给N++
+问就是不知道
+以上的如何配置lua方法请自行在CSDN寻找
+参考地址：
+[VScode](https://blog.csdn.net/lr_shadow/article/details/117730466?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522164699369616780269837245%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=164699369616780269837245&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~baidu_landing_v2~default-1-117730466.es_vector_control_group&utm_term=vscode%E9%85%8D%E7%BD%AElua&spm=1018.2226.3001.4187)
