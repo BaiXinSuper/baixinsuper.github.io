@@ -21,21 +21,21 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 湾区书记汤姆                         # the main title
+title: 白欣                         # the main title
 
-tagline: 这里是湾区书记汤姆的博客～   # it will display as the sub-title
+tagline: 欢迎~购买GTA5科技->https://bxhcheats.xyz/   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-    这是通过Chirpy主题配置而成的
+    欢迎来到白欣的博客~~~~~~
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ''
 
 github:
-  username: tomstillcoding             # change to your github username
+  username: BaiXinSuper          # change to your github username
 
-twitter:
-  username: twitter_username            # change to your twitter username
+#twitter:
+  #username: twitter_username            # change to your twitter username
 
 social:
   # Change to your full name.
@@ -44,8 +44,8 @@ social:
   email: example@doamin.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    #- https://twitter.com/username      # change to your twitter homepage
+    - https://github.com/BaiXinSuper       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
