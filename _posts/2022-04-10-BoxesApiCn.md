@@ -25,7 +25,7 @@ mermaid: true
 把这行代码写入你的lua文件头部
 
 ```lua
-require("Boxes.lua")
+require("Boxes")
 ```
 
 使用->方法名.方法() 调用
@@ -48,7 +48,7 @@ array<int>      tokenSort()
 例子
 
 ```lua
-require("Boxes.lua")
+require("Boxes")
 local my_ped=Boxes.myPed()
 ```
 

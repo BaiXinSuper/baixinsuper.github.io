@@ -25,7 +25,7 @@ mermaid: true
 code it at your code head
 
 ```lua
-require("Boxes.lua")
+require("Boxes")
 ```
 
 FuntionName.Func() to use it
@@ -49,7 +49,7 @@ array<int>      tokenSort()
 example
 
 ```lua
-require("Boxes.lua")
+require("Boxes")
 local my_ped=Boxes.myPed()
 ```
 
