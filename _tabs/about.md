@@ -14,9 +14,10 @@ Atom->cosmos198dkzqygxd5uppss6sr6mrntnntp6ht8llld3l
 
 Dot->12gvCTD8252eZuwZiyMta9ZZ5JFwN7mp5sYbKbAW5JsKKHf4
 
-Wechat->[![LpMFHg.png](https://s1.ax1x.com/2022/04/08/LpMFHg.png)](https://imgtu.com/i/LpMFHg)
+Wechat->![Wechat](../assets/blog_res/about.assets/Wechat.png)
 
-AliPay->[![LpMS3t.jpg](https://s1.ax1x.com/2022/04/08/LpMS3t.jpg)](https://imgtu.com/i/LpMS3t)
+AliPay->
 
 
 
+![Ali](../assets/blog_res/about.assets/Ali.jpg)
