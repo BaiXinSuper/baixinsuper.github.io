@@ -16,8 +16,4 @@ Dot->12gvCTD8252eZuwZiyMta9ZZ5JFwN7mp5sYbKbAW5JsKKHf4
 
 Wechat->![Wechat](../assets/blog_res/about.assets/Wechat.png)
 
-AliPay->
-
-
-
-![Ali](../assets/blog_res/about.assets/Ali.jpg)
+AliPay->![Ali](../assets/blog_res/about.assets/Ali.jpg)
