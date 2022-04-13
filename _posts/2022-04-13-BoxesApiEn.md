@@ -1,8 +1,8 @@
 ---
 
 
-title: Boxes Api用法
-date: 2022-04-13 10:30:00 +0800
+title: Boxes Api Useages EN
+date: 2022-04-10 10:30:00 +0800
 categories: [Api]
 tags: [Lua]
 pin: false
@@ -20,17 +20,17 @@ mermaid: true
 
 ---
 
-# 用法
+# Useage
 
-把这行代码写入你的lua文件头部
+code it at your code head
 
 ```lua
 require("Boxes")
 ```
 
-使用->方法名.方法() 调用
+FuntionName.Func() to use it
 
-## Boxes 方法
+## Boxes Funtion
 
 ```lua
 Ped/Int/Entity  myPed()
@@ -46,7 +46,7 @@ array<int>      tokenSort()
 Entity          spawn(Hash hash,int/V3 pid/pos/ped)
 ```
 
-例子
+example
 
 ```lua
 require("Boxes")
