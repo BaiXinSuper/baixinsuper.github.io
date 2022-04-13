@@ -43,7 +43,7 @@ string          getIp(Int pid)
 array<int>      whoIsSpectMe()
 array<int>      whoIsAimMe()
 array<int>      tokenSort()
-Entity          spawn(Hash hash,int/V3 pid/pos/ped)
+Entity          spawn(Hash hash,int/V3 pid/pos/ped/Entity)
 ```
 
 example
